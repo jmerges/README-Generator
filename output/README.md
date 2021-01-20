@@ -1,5 +1,5 @@
-# df
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+# James Project
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 ## Table of Contents
 - [Description](#Description)
 - [Installation](#Installation)
@@ -9,17 +9,17 @@
 - [License](#License)
 - [Questions](#Questions)
 ## Description
-df
+James description
 ## Installation
-df
+James install
 ## Usage
-df
+James usage
 ## Contribution
-df
+James contribution
 ## Test
-df
+James test
 ## License
-Application is covered under the MIT license.
+Application is covered under the AGPL license.
 ## Questions
-GitHub: https://github.com/df  
-If you have additional questions, you can reach me at df
+GitHub: https://github.com/jmerges  
+If you have additional questions, you can reach me at jamesmerges1@gmail.com
